@@ -13,7 +13,7 @@ Instalacion ⚙️
 Este proyecto no necesita de instalación. Simplemente abre la carpeta o haz doble click en el .html
 
 Contratacion 📲
-Si quieres contratarme puedes escribirme a alejanpublic@gmaiL.com
+Si quieres contratarme puedes escribirme a alejanpublic.dev@gmaiL.com
 
 Lincencia📧
 MIT Public License v3.0 No puede usarse comercialmente.
