@@ -7,7 +7,7 @@ Manuel Garcia
 *linkedin
 
 Ver ejemplo en vivo 📊
-🌎 https://alejanpublic.github.io/Portafolio-Beta/
+🌎 https://alejanpublic-dev.github.io/Portafolio-2.0/
 
 Instalacion ⚙️
 Este proyecto no necesita de instalación. Simplemente abre la carpeta o haz doble click en el .html
